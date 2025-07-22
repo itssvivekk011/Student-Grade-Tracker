@@ -9,8 +9,8 @@ A Java-based application to manage and track students' grades, subjects, and per
 - Add, update, delete student records
 - Assign and track grades per subject
 - View performance reports
-- Store data using file/database (customize based on your project)
-- Simple console-based UI (or GUI, if you built one)
+- Store data using file/database
+- Simple console-based GUI.
 
 ---
 
@@ -29,7 +29,7 @@ A Java-based application to manage and track students' grades, subjects, and per
 ### Prerequisites
 - Java JDK 17+
 - IDE (like IntelliJ IDEA, Eclipse, or VS Code)
-- MySQL (if using JDBC)
+
 
 ### How to Run
 
