@@ -24,12 +24,6 @@ A Java-based application to manage and track students' grades, subjects, and per
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your console or GUI output, if possible.
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
